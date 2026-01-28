@@ -14,7 +14,7 @@
 
 ## <a id="Presentation"></a>🤖 » Presentation
 ### What is Azkoz ? 
-Nebula is the future of discord raider bots. In addition to having great efficiency and numerous commands, it is controlled via panel which allows you to destroy it as anonymously as possible.
+Azkoz is the future of discord raider bots. In addition to having great efficiency and numerous commands, it is controlled via panel which allows you to destroy it as anonymously as possible.
 
 ## <a id="Requirements"></a>💻 » Requirements
 - Python 3.10+
@@ -39,7 +39,7 @@ Nebula is the future of discord raider bots. In addition to having great efficie
 
 ## <a id="How To Use"></a>📜 » How To Use
 1. Install Python (3.10+) and add it to PATH.
-2. Download and extract latest Nebula version.
+2. Download and extract latest Azkoz version.
 3. Install requirements → open the cmd and go in Nebula folder then run `pip install -r requirements.txt`.
 4. Config the `config.py` if you want.
 5. Run `main.py` in the cmd → `python main.py`.
