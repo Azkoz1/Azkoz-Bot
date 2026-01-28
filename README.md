@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Nebula Raider V1.3.2 💻 
+# 🤖 Azkoz V1.3.2 💻 
 </div>
 
 ## <a id="Tables-Of-Contents"></a>🔱 » Table Of Contents
