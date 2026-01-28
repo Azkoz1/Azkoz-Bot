@@ -62,8 +62,7 @@ Nebula is the future of discord raider bots. In addition to having great efficie
 **If anything didn't work join the [discord server](https://discord.gg/xGqPesUHsF).**
 
 ## <a id="Preview"></a>📷 » Preview 
-![image](<img width="984" height="518" alt="Capture d&#39;écran 2026-01-28 142140" src="https://github.com/user-attachments/assets/f1ab2bcb-108b-4f1b-bd85-7ab32ec3448a" />
-)
+<img src="https://github.com/user-attachments/assets/f1ab2bcb-108b-4f1b-bd85-7ab32ec3448a" width="984" alt="Capture d'écran">
 ![image](https://github.com/Nyxoy201/nebula/assets/137317152/ee10810a-6cad-4a77-bead-8f352903b0f0)
 ![image](https://github.com/Nyxoy201/nebula/assets/137317152/2e71b366-c6be-4bba-b1ea-9af1a7c8a697)
 
