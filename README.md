@@ -13,7 +13,7 @@
 - [Preview](#📷-»-Preview)
 
 ## <a id="Presentation"></a>🤖 » Presentation
-### What is Nebula ? 
+### What is Azkoz ? 
 Nebula is the future of discord raider bots. In addition to having great efficiency and numerous commands, it is controlled via panel which allows you to destroy it as anonymously as possible.
 
 ## <a id="Requirements"></a>💻 » Requirements
